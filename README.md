@@ -79,8 +79,6 @@
 <div align="left">
 <h3> Mr. and Ms. Shy : </h3>
 
-<h3> Zephry Breeze : </h3>
-
 ---
 <div align="center">
 <h2> Cake Family : </h2>
