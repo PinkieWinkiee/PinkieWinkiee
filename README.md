@@ -2,7 +2,7 @@
 
 <img src="https://64.media.tumblr.com/8e774e23089f49c3773f7fe39b83ee47/8d49d5ceedc05c3d-23/s1280x1920/52ca5e3bf6f8483699f786411a94b05626ec3838.webp" width="1000">
 
-<div align="center">
+<div align="left">
 
 <h1> <sub>${\text{\color{#ff64ac}Hello! This is all fun and games since I wanted to dedicate MLP characters to some of my friends}}$ <br></sub> </h1>
 <br>
