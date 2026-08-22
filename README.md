@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<h1> <sub>${\text{\color{#ff64ac} Hello! This is all fun and games since I wanted to dedicate MLP characters to some of my friends }}$ <br></sub> </h1>
+<h1> <sub>${\text{\color{#ff64ac} Hello! This is all fun and games since I wanted to dedicate MLP characters }}$ <br></sub> </h1>
 <br>
 
 <h4>I would also like to clarify that I will be nominating individuals myself, but I will not be accepting nominations from others, as I want this only from my point of view, but you can nominate a character that isn't on the list yet.</h4>
