@@ -27,7 +27,7 @@
 
 <h3> Rarity : </h3>
 
-<h3> Pinkie Pie : </h3>
+<h3> Pinkie Pie : <a href="https://github.com/Mayumixx">Mayumixx</a> </h3> 
 
 <h3> Rainbow Dash : </h3>
 
