@@ -19,27 +19,28 @@
 <h2> Main Six (plus one... LMAO) : </h2>
 
 <div align="left">
-<h3> Twilight Sparkles : </h3>
+<h3> Twilight Sparkles : ambitious, highly intelligent, and meticulous academic and symbolically embodies the Element of Magic </h3>
 
-<h3> Applejack : </h3>
+<h3> Applejack : <a href="https://github.com/Corintheuss">Cori</a> , <a href="https://github.com/iwanttoholdyourhand">Amber</a> , <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> - dependable, down-to-earth, and hardworking Earth pony who represents the Element of Honesty </h3>
 
-<h3> Fluttershy : </h3>
+<h3> Fluttershy : <a href="https://github.com/Mimikinsz">Mimi</a> - entle, introverted, and soft-spoken pegasus who embodies the Element of Kindness.  </h3>
 
-<h3> Rarity : </h3>
+<h3> Rarity : <a href="https://github.com/hoobae">Harver</a> - generous, elegant unicorn persona with the core Element of Generosity </h3>
 
-<h3> Pinkie Pie : <a href="https://github.com/Mayumixx">Mayumixx</a> </h3> 
+<h3> Pinkie Pie : <a href="https://github.com/Yxmi-c">Yumi</a> , <a href="https://github.com/mydad-is-myhero">Flynn</a> - hyperactive, joyful, and eccentric Earth pony who embodies the Element of Laughter </h3> 
 
-<h3> Rainbow Dash : </h3>
+<h3> Rainbow Dash : <a href="https://github.com/Nerosuince">Thyme</a> , <a href="https://github.com/tillsguitar">Mai</a> - bold, athletic, and fiercely loyal Pegasus, and bearer of the Element of Loyalty. </h3>
 
-<h3> Spike : </h3>
+<h3> Spike : <a href="https://github.com/Corintheuss">Cori JKJKJJK//</a> - loyal, sarcastic, and sweet dragon </h3>
 
+---
 <div align="center">
 <h2> Royalty (I'm only putting pony's that LOOK like a pony or slightly... i didn't put prince blueblood since who wants to be him anyways...) : </h2>
 
 <div align="left">
-<h3> Princess Celestia : </h3>
+<h3> Princess Celestia : <a href="https://github.com/ghost1amy">Amy</a> - wise, kind, and patient ruler </h3>
 
-<h3> Princess Luna : </h3>
+<h3> Princess Luna : Cammy - remorseful, deeply caring, and somewhat socially awkward ruler </h3>
 
 <h3> Princess Cadance : </h3>
 
@@ -51,6 +52,7 @@
 
 <h3> Queen Novo : </h3>
 
+---
 <div align="center">
 <h2> Apple Family : </h2>
 
@@ -59,8 +61,9 @@
 
 <h3> Big Mclntosh : </h3>
 
-<h3> Bright Mac and Pear Butter : </h3>
+<h3> Bright Mac and Pear Butter : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> + Via </h3>
 
+---
 <div align="center">
 <h2> Pie Family : </h2>
 
@@ -69,6 +72,7 @@
 
 <h3> Maud Pie : </h3>
 
+---
 <div align="center">
 <h2> Shy Family : </h2>
 
@@ -77,6 +81,7 @@
 
 <h3> Zephry Breeze : </h3>
 
+---
 <div align="center">
 <h2> Cake Family : </h2>
 
