@@ -21,7 +21,7 @@
 <div align="left">
 <h3> Twilight Sparkles : ambitious, highly intelligent, and meticulous academic and symbolically embodies the Element of Magic </h3>
 
-<h3> Applejack : <a href="https://github.com/Corintheuss">Cori</a> , <a href="https://github.com/iwanttoholdyourhand">Amber</a> , <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> - dependable, down-to-earth, and hardworking Earth pony who represents the Element of Honesty </h3>
+<h3> Applejack : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> , <a href="https://github.com/Corintheuss">Cori</a> , <a href="https://github.com/iwanttoholdyourhand">Amber</a> - dependable, down-to-earth, and hardworking Earth pony who represents the Element of Honesty </h3>
 
 <h3> Fluttershy : <a href="https://github.com/Mimikinsz">Mimi</a> - entle, introverted, and soft-spoken pegasus who embodies the Element of Kindness.  </h3>
 
