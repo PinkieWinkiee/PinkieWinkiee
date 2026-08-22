@@ -23,13 +23,13 @@
 
 <h3> Applejack : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> , <a href="https://github.com/Corintheuss">Cori</a> , <a href="https://github.com/iwanttoholdyourhand">Amber</a> - dependable, down-to-earth, and hardworking Earth pony who represents the Element of Honesty </h3>
 
-<h3> Fluttershy : <a href="https://github.com/Mimikinsz">Mimi</a> - entle, introverted, and soft-spoken pegasus who embodies the Element of Kindness.  </h3>
+<h3> Fluttershy : <a href="https://github.com/Mimikinsz">Mimi</a> , <a href="https://github.com/ianishuser">Ian</a> - entle, introverted, and soft-spoken pegasus who embodies the Element of Kindness.  </h3>
 
 <h3> Rarity : <a href="https://github.com/hoobae">Harver</a> - generous, elegant unicorn persona with the core Element of Generosity </h3>
 
 <h3> Pinkie Pie : <a href="https://github.com/Yxmi-c">Yumi</a> , <a href="https://github.com/mydad-is-myhero">Flynn</a> - hyperactive, joyful, and eccentric Earth pony who embodies the Element of Laughter </h3> 
 
-<h3> Rainbow Dash : <a href="https://github.com/Nerosuince">Thyme</a> , <a href="https://github.com/tillsguitar">Mai</a> - bold, athletic, and fiercely loyal Pegasus, and bearer of the Element of Loyalty. </h3>
+<h3> Rainbow Dash : <a href="https://github.com/Nerosuince">Thyme</a> , <a href="https://github.com/tillsguitar">Mai</a> ,  <a href="https://github.com/XianverBone">Xian</a> - bold, athletic, and fiercely loyal Pegasus, and bearer of the Element of Loyalty. </h3>
 
 <h3> Spike : <a href="https://github.com/Corintheuss">Cori JKJKJJK//</a> - loyal, sarcastic, and sweet dragon </h3>
 
