@@ -40,7 +40,7 @@
 <div align="left">
 <h3> Princess Celestia : <a href="https://github.com/ghost1amy">Amy</a> - wise, kind, and patient ruler </h3>
 
-<h3> Princess Luna : Cammy - remorseful, deeply caring, and somewhat socially awkward ruler </h3>
+<h3> Princess Luna : Cammy - remorseful, deeply caring ruler </h3>
 
 <h3> Princess Cadance : </h3>
 
