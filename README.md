@@ -42,26 +42,26 @@
 
 <h3> Princess Luna : Cammy - remorseful, deeply caring ruler </h3>
 
-<h3> Princess Cadance : Nana </h3>
+<h3> Princess Cadance : Nana - kind, compassionate, and deeply caring </h3>
 
 <h3> Shining Armor : </h3>
 
 <h3> Flurry Heart : </h3>
 
-<h3> Princess Skystar : <a href="https://github.com/mydad-is-myhero">Flynn</a> </h3>
+<h3> Princess Skystar : <a href="https://github.com/mydad-is-myhero">Flynn</a> , Kati - cheerful, bubbly, and talkative </h3>
 
-<h3> Queen Novo :  <a href="https://github.com/hoobae">Harver</a> , </h3>
+<h3> Queen Novo :  <a href="https://github.com/hoobae">Harvey</a> - nonchalant, sarcastic, somewhat egotistical, and fiercely protective </h3>
 
 ---
 <div align="center">
 <h2> Apple Family : </h2>
 
 <div align="left">
-<h3> Granny Smith :  <a href="https://github.com/777xngel">Angel</a> </h3>
+<h3> Granny Smith :  <a href="https://github.com/777xngel">Angel (minuesthewisepartLOL)</a> - feisty, eccentric, and wise </h3>
 
-<h3> Big Mclntosh : <a href="https://github.com/iwanttoholdyourhand">Amber</a> (luvuambermuaphs!!) </h3>
+<h3> Big Mclntosh : <a href="https://github.com/iwanttoholdyourhand">Amber (luvuambermuaphs!!)</a> - calm, soft-spoken, and hardworking </h3>
 
-<h3> Bright Mac and Pear Butter : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> + Via </h3>
+<h3> Bright Mac and Pear Butter : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> + Via - loving, sweet-tempered, and resilient couple </h3>
 
 ---
 <div align="center">
