@@ -44,7 +44,7 @@
 
 <h3> Princess Cadance : Nana - kind, compassionate, and deeply caring </h3>
 
-<h3> Shining Armor : </h3>
+<h3> Shining Armor : <a href="https://github.com/ThatRoyalBeast">King Evaen</a> - kind, brave, and deeply protective unicorn. </h3>
 
 <h3> Flurry Heart : </h3>
 
@@ -70,7 +70,7 @@
 <div align="left">
 <h3> Igneous Rock Pie and Cloudy Quartz : </h3>
 
-<h3> Maud Pie : <a href="https://github.com/tillsguitar">Mai</a> - dry, deadpan, and deeply reserved </h3>
+<h3> Maud Pie : <a href="https://github.com/tillsguitar">Mai</a> - stoic, deadpan, deeply caring,  and deeply reserved </h3>
 
 ---
 <div align="center">
