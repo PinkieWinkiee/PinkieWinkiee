@@ -77,7 +77,7 @@
 <h2> Shy Family : </h2>
 
 <div align="left">
-<h3> Mr. and Ms. Shy : </h3>
+<h3> Mr. and Ms. Shy : <a href="https://github.com/harmoniashusband">Luca</a> + <a href="https://github.com/ukeivan">Alana</a> </h3>
 
 ---
 <div align="center">
@@ -86,7 +86,7 @@
 <div align="left">
 <h3> Mr. and Ms. Cake : </h3>
 
-<h3> Pound Cake and Pumpkin Cake : <a href="https://github.com/Mimikinsz">Mimi</a> & <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> ,  <a href="https://github.com/Corintheuss">Cori</a> & <a href="https://github.com/ianishuser">Ian</a> </h3>
+<h3> Pound Cake and Pumpkin Cake : <a href="https://github.com/Mimikinsz">Mimi</a> + <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> ,  <a href="https://github.com/Corintheuss">Cori</a> + <a href="https://github.com/ianishuser">Ian</a> </h3>
 
 ---
 
