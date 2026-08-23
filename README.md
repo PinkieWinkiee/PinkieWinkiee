@@ -25,7 +25,7 @@
 
 <h3> Fluttershy : <a href="https://github.com/Mimikinsz">Mimi</a> , <a href="https://github.com/ianishuser">Ian</a> - gentle, introverted, and soft-spoken pegasus who embodies the Element of Kindness.  </h3>
 
-<h3> Rarity : <a href="https://github.com/hoobae">Harver</a> , <a href="https://github.com/moorgg">Morg</a> - generous, elegant unicorn persona with the core Element of Generosity </h3>
+<h3> Rarity : <a href="https://github.com/moorgg">Morg</a> - generous, elegant unicorn persona with the core Element of Generosity </h3>
 
 <h3> Pinkie Pie : <a href="https://github.com/Yxmi-c">Yumi</a> - hyperactive, joyful, and eccentric Earth pony who embodies the Element of Laughter </h3> 
 
@@ -48,9 +48,9 @@
 
 <h3> Flurry Heart : </h3>
 
-<h3> Princess Skystar : <a href="https://github.com/mydad-is-myhero">Flynn</a> , </h3>
+<h3> Princess Skystar : <a href="https://github.com/mydad-is-myhero">Flynn</a> </h3>
 
-<h3> Queen Novo : </h3>
+<h3> Queen Novo :  <a href="https://github.com/hoobae">Harver</a> , </h3>
 
 ---
 <div align="center">
