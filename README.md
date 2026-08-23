@@ -23,7 +23,7 @@
 
 <h3> Applejack : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> , <a href="https://github.com/Corintheuss">Cori</a> - dependable, down-to-earth, and hardworking Earth pony who represents the Element of Honesty </h3>
 
-<h3> Fluttershy : <a href="https://github.com/Mimikinsz">Mimi</a> , <a href="https://github.com/ianishuser">Ian</a> - entle, introverted, and soft-spoken pegasus who embodies the Element of Kindness.  </h3>
+<h3> Fluttershy : <a href="https://github.com/Mimikinsz">Mimi</a> , <a href="https://github.com/ianishuser">Ian</a> - gentle, introverted, and soft-spoken pegasus who embodies the Element of Kindness.  </h3>
 
 <h3> Rarity : <a href="https://github.com/hoobae">Harver</a> , <a href="https://github.com/moorgg">Morg</a> - generous, elegant unicorn persona with the core Element of Generosity </h3>
 
