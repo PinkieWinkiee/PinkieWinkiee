@@ -29,7 +29,7 @@
 
 <h3> Pinkie Pie : <a href="https://github.com/Yxmi-c">Yumi</a> - hyperactive, joyful, and eccentric Earth pony who embodies the Element of Laughter </h3> 
 
-<h3> Rainbow Dash : <a href="https://github.com/Nerosuince">Thyme</a> , <a href="https://github.com/tillsguitar">Mai</a> ,  <a href="https://github.com/XianverBone">Xian</a> - bold, athletic, and fiercely loyal Pegasus, and bearer of the Element of Loyalty. </h3>
+<h3> Rainbow Dash : <a href="https://github.com/Nerosuince">Thyme</a> , <a href="https://github.com/XianverBone">Xian</a> - bold, athletic, and fiercely loyal Pegasus, and bearer of the Element of Loyalty. </h3>
 
 <h3> Spike : <a href="https://github.com/Corintheuss">Cori JKJKJJK//</a> - loyal, sarcastic, and sweet dragon </h3>
 
@@ -70,7 +70,7 @@
 <div align="left">
 <h3> Igneous Rock Pie and Cloudy Quartz : </h3>
 
-<h3> Maud Pie : </h3>
+<h3> Maud Pie :  , <a href="https://github.com/tillsguitar">Mai</a> </h3>
 
 ---
 <div align="center">
