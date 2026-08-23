@@ -21,7 +21,7 @@
 <div align="left">
 <h3> Twilight Sparkles : ambitious, highly intelligent, and meticulous academic and symbolically embodies the Element of Magic </h3>
 
-<h3> Applejack : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> , <a href="https://github.com/Corintheuss">Cori</a> - dependable, down-to-earth, and hardworking Earth pony who represents the Element of Honesty </h3>
+<h3> Applejack : <a href="https://github.com/Firewall-Destroyer-9000">Sano</a> , <a href="https://github.com/Corintheuss">Cori</a> - dependable, down-to-earth, and hardworking Earth pony who represents the Element of Honesty </h3>
 
 <h3> Fluttershy : <a href="https://github.com/Mimikinsz">Mimi</a> , <a href="https://github.com/ianishuser">Ian</a> - gentle, introverted, and soft-spoken pegasus who embodies the Element of Kindness.  </h3>
 
@@ -61,7 +61,7 @@
 
 <h3> Big Mclntosh : <a href="https://github.com/iwanttoholdyourhand">Amber (luvuambermuaphs!!)</a> - calm, soft-spoken, and hardworking </h3>
 
-<h3> Bright Mac and Pear Butter : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> + Via - loving, sweet-tempered, and resilient couple </h3>
+<h3> Bright Mac and Pear Butter : <a href="https://github.com/Firewall-Destroyer-9000">Sano</a> + Via - loving, sweet-tempered, and resilient couple </h3>
 
 ---
 <div align="center">
@@ -86,7 +86,7 @@
 <div align="left">
 <h3> Mr. and Mrs. Cake : </h3>
 
-<h3> Pound Cake and Pumpkin Cake : <a href="https://github.com/Mimikinsz">Mimi</a> + <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> ,  <a href="https://github.com/Corintheuss">Cori</a> + <a href="https://github.com/ianishuser">Ian</a> - rambunctious, hyperactive baby twin ponies </h3>
+<h3> Pound Cake and Pumpkin Cake : <a href="https://github.com/Mimikinsz">Mimi</a> + <a href="https://github.com/Firewall-Destroyer-9000">Sano</a> ,  <a href="https://github.com/Corintheuss">Cori</a> + <a href="https://github.com/ianishuser">Ian</a> - rambunctious, hyperactive baby twin ponies </h3>
 
 ---
 
