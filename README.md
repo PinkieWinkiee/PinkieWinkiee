@@ -70,23 +70,23 @@
 <div align="left">
 <h3> Igneous Rock Pie and Cloudy Quartz : </h3>
 
-<h3> Maud Pie :  , <a href="https://github.com/tillsguitar">Mai</a> </h3>
+<h3> Maud Pie : <a href="https://github.com/tillsguitar">Mai</a> - dry, deadpan, and deeply reserved </h3>
 
 ---
 <div align="center">
 <h2> Shy Family : </h2>
 
 <div align="left">
-<h3> Mr. and Ms. Shy : <a href="https://github.com/harmoniashusband">Luca</a> + <a href="https://github.com/ukeivan">Alana</a> </h3>
+<h3> Mr. and Mrs. Shy : <a href="https://github.com/harmoniashusband">Luca</a> + <a href="https://github.com/ukeivan">Alana</a> - painfully timid, soft-spoken </h3>
 
 ---
 <div align="center">
 <h2> Cake Family : </h2>
 
 <div align="left">
-<h3> Mr. and Ms. Cake : </h3>
+<h3> Mr. and Mrs. Cake : </h3>
 
-<h3> Pound Cake and Pumpkin Cake : <a href="https://github.com/Mimikinsz">Mimi</a> + <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> ,  <a href="https://github.com/Corintheuss">Cori</a> + <a href="https://github.com/ianishuser">Ian</a> </h3>
+<h3> Pound Cake and Pumpkin Cake : <a href="https://github.com/Mimikinsz">Mimi</a> + <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> ,  <a href="https://github.com/Corintheuss">Cori</a> + <a href="https://github.com/ianishuser">Ian</a> - rambunctious, hyperactive baby twin ponies </h3>
 
 ---
 
