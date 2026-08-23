@@ -21,13 +21,13 @@
 <div align="left">
 <h3> Twilight Sparkles : ambitious, highly intelligent, and meticulous academic and symbolically embodies the Element of Magic </h3>
 
-<h3> Applejack : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> , <a href="https://github.com/Corintheuss">Cori</a> , <a href="https://github.com/iwanttoholdyourhand">Amber</a> - dependable, down-to-earth, and hardworking Earth pony who represents the Element of Honesty </h3>
+<h3> Applejack : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> , <a href="https://github.com/Corintheuss">Cori</a> - dependable, down-to-earth, and hardworking Earth pony who represents the Element of Honesty </h3>
 
 <h3> Fluttershy : <a href="https://github.com/Mimikinsz">Mimi</a> , <a href="https://github.com/ianishuser">Ian</a> - entle, introverted, and soft-spoken pegasus who embodies the Element of Kindness.  </h3>
 
 <h3> Rarity : <a href="https://github.com/hoobae">Harver</a> , <a href="https://github.com/moorgg">Morg</a> - generous, elegant unicorn persona with the core Element of Generosity </h3>
 
-<h3> Pinkie Pie : <a href="https://github.com/Yxmi-c">Yumi</a> , <a href="https://github.com/mydad-is-myhero">Flynn</a> , <a href="https://github.com/777xngel">Angel</a> - hyperactive, joyful, and eccentric Earth pony who embodies the Element of Laughter </h3> 
+<h3> Pinkie Pie : <a href="https://github.com/Yxmi-c">Yumi</a> - hyperactive, joyful, and eccentric Earth pony who embodies the Element of Laughter </h3> 
 
 <h3> Rainbow Dash : <a href="https://github.com/Nerosuince">Thyme</a> , <a href="https://github.com/tillsguitar">Mai</a> ,  <a href="https://github.com/XianverBone">Xian</a> - bold, athletic, and fiercely loyal Pegasus, and bearer of the Element of Loyalty. </h3>
 
@@ -42,13 +42,13 @@
 
 <h3> Princess Luna : Cammy - remorseful, deeply caring ruler </h3>
 
-<h3> Princess Cadance : </h3>
+<h3> Princess Cadance : Nana </h3>
 
 <h3> Shining Armor : </h3>
 
 <h3> Flurry Heart : </h3>
 
-<h3> Princess Skystar : </h3>
+<h3> Princess Skystar : <a href="https://github.com/mydad-is-myhero">Flynn</a> , </h3>
 
 <h3> Queen Novo : </h3>
 
@@ -57,9 +57,9 @@
 <h2> Apple Family : </h2>
 
 <div align="left">
-<h3> Granny Smith : </h3>
+<h3> Granny Smith :  <a href="https://github.com/777xngel">Angel</a> </h3>
 
-<h3> Big Mclntosh : </h3>
+<h3> Big Mclntosh : <a href="https://github.com/iwanttoholdyourhand">Amber</a> (luvuambermuaphs!!) </h3>
 
 <h3> Bright Mac and Pear Butter : <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> + Via </h3>
 
@@ -86,7 +86,7 @@
 <div align="left">
 <h3> Mr. and Ms. Cake : </h3>
 
-<h3> Pound Cake and Pumpkin Cake : </h3>
+<h3> Pound Cake and Pumpkin Cake : <a href="https://github.com/Mimikinsz">Mimi</a> & <a href="https://github.com/ATHEISTIC-SATANISM">Sano</a> ,  <a href="https://github.com/Corintheuss">Cori</a> & <a href="https://github.com/ianishuser">Ian</a> </h3>
 
 ---
 
